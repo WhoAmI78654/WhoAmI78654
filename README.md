@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WhoAmI78654
 - 👀 I’m interested in coding games
-- 🌱 I’m currently learning GML, Python, C#, GdScript
+- 🌱 I’m currently learning GML, Python, C#, Java, GdScript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: you can't
 - 😄 Pronouns: he/him
